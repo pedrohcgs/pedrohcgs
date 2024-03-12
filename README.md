@@ -26,6 +26,6 @@ In my GitHub, you will find:
 
 If you have any questions, please feel free to contact me:
 
-- 📧 Email: pedro.santanna@emory.eduu
+- 📧 Email: pedro.santanna@emory.edu
 - 💼 LinkedIn: https://www.linkedin.com/in/pedrohcsantanna/
 - 🐦 Twitter: https://twitter.com/pedrohcgs
