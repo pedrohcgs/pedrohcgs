@@ -1,8 +1,12 @@
-# Hi there, I'm Pedro H. C. Sant'Anna! 👋
+# Hi there👋
 
 Welcome to my GitHub profile! 
 
-I'm an Applied Econometrician. My main areas of research interest are in the intersection of
+I am Pedro H. C. Sant'Anna, an Associate Professor at the Department of Economics at Emory University.
+
+I'm an Applied Econometrician, and I am very curious about how econometric things work (in theory and in practice).
+
+My main areas of research interest are in the intersection of
 - **Causal Inference**;
 - **Data-adaptive methods** (aka Machine Learning);
 - **Semiparametric methods**;
