@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 I'm an Applied Econometrician. My main areas of research interest are in the intersection of
 - **Causal Inference**;
-- **Data-adaptive methods**(aka Machine Learning);
+- **Data-adaptive methods** (aka Machine Learning);
 - **Semiparametric methods**;
 - **Applied Microeconomics**.
 
